@@ -1,0 +1,12 @@
+{
+    "name": "202208-hyeon-ui",
+    "remotes": {
+        "202208-hyeon-ui": "http://localhost:3000"
+    },
+    "version": "1.0.319",
+    "lanes": {
+        "current": "main",
+        "tracking": [],
+        "new": []
+    }
+}
